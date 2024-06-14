@@ -83,6 +83,14 @@ This project integrates a Fire Gas Sensing Monitoring System using an JRC Board 
 
 ![circuit diagram wro_23_bb](https://github.com/Afia-humayra/Automation/assets/87032492/e66b8c27-274b-4db5-a6fc-335fd02f0340)
 
+### BLYNK Dashboard
+![blynk server dashboard](https://github.com/Afia-humayra/Automation/assets/87032492/a799ebd6-4438-40bc-99a9-49f1af6b399a)
+![blynk warning](https://github.com/Afia-humayra/Automation/assets/87032492/6eb06d3c-5a88-4d66-a78e-8dd902a933fe)
+![notifi](https://github.com/Afia-humayra/Automation/assets/87032492/6d80961e-9420-4389-8b37-9e753e2e040f)
+![mobile dash](https://github.com/Afia-humayra/Automation/assets/87032492/1a1af9a1-ecb1-4723-95e9-0d6c3a9e5fb0)
+![noti mobile](https://github.com/Afia-humayra/Automation/assets/87032492/58bc154a-2021-499a-8044-78b69b2db436)
+
+
 ### Installation and Configuration
 
 1.   **Program the JRC Board:**  Open the tryn.ino sketch in the Arduino IDE. Upload the code to the Arduino board.
